@@ -5,7 +5,7 @@
             <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
                 <source srcset="/images/top/sp/section_2/img_1.png" media="(max-width: 899px)" type="image/webp">
                 <source srcset="/images/top/section_2/img_1.png" media="(min-width: 900px)">
-                <img src="/images/top/sp/section_2/img_1.png" alt="ウチダの強み">
+                <img src="/images/top/sp/section_2/img_1.png" alt="">
             </picture>
             <div class="txt_cont">
                 <p>2015年 国連サミットで採択された「持続可能な開発目標（SDGｓ）」は、2030年までに17項の目標達成に向けて、あらゆる組織・団体がステークホルダー（利害関係者）と共に連携して取り組みを進めることが重視されています。<br>
@@ -26,7 +26,7 @@
                 <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
                     <source srcset="/images/top/sp/section_2/img_2.png" media="(max-width: 899px)" type="image/webp">
                     <source srcset="/images/top/section_2/img_center.png" media="(min-width: 900px)">
-                    <img src="/images/top/sp/section_2/img_2.png" alt="ウチダの強み">
+                    <img src="/images/top/sp/section_2/img_2.png" alt="">
                 </picture>
                 <img src="/images/top/section_2/character_icon.svg" alt="" class="img_2">
             </div>
