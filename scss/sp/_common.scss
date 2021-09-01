@@ -126,7 +126,18 @@ header {
 /* footer
 ==================================*/
 footer {
-  background: #000;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  .footer_inner{
+    .copy{
+      text-align: center;
+      small{
+        text-align: center;
+        font-size: 13px;
+        color: #9b9b9b; 
+      }
+    }
+  }
 }
 
 #pageTop {

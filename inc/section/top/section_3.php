@@ -1,9 +1,9 @@
 <section class="sect_3">
     <div class="wrapper">
         <div class="container">
-            <h3>レンティック中部 <br>みんなで取り組んでいます！</h3>
+            <h3 class="c-anim-up">レンティック中部 <br>みんなで取り組んでいます！</h3>
             <div class="row">
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -24,7 +24,7 @@
                             これにより廃棄物の発生を抑制し削減に努めます。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -45,7 +45,7 @@
                             併設するリネン工場も重油式よりガス式へ入替を行いました。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -66,7 +66,7 @@
                             見学により学生の皆さまが自ら仕事をするイメージや働きがいについて学びます。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -91,7 +91,7 @@
                             当社雇用率12.26%（写真：浜松布団工場）外国人労働者の採用も積極的に行っています。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -112,7 +112,7 @@
                         （写真：2020年浜松工場 避難訓練）</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -133,7 +133,7 @@
                             清潔で安全な製品を提供します。化学物質や廃棄物を管理して人や環境へのリスクを最小化します。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -154,7 +154,7 @@
                             規定数値を設定して定期的に検査を実施します。（写真：浜松リネン工場）</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -175,7 +175,7 @@
                             安全で効果的かつ質の高い必須医薬品を手に入れられるようにします。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -196,7 +196,7 @@
                             また、リネンサプライ職種の技能実習評価試験において試験会場の提供、監督員の配置をします。</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -217,7 +217,7 @@
                             アイドリングストップ推進を実施してCO2削減に努めます。（写真：浜松工場 配送車両）</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->
@@ -238,7 +238,7 @@
                             地域の児童があらゆる形態の危険や暴力の被害に遭遇しないよう地域社会へ参画します。（写真：本社 正面入口）</p>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <picture>
                         <!-- <source　srcset="/images/top/advan.webp" media="(min-width: 900px)" type="image/webp"> -->

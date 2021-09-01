@@ -1,9 +1,9 @@
 <section class="sect_4">
     <div class="wrapper">
         <div class="container">
-            <h3>これからのチャレンジ!!</h3>
+            <h3 class="c-anim-up">これからのチャレンジ!!</h3>
             <div class="row">
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_1.svg" alt="">
                     </div>
@@ -17,7 +17,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_3.svg" alt="">
                     </div>
@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_4.svg" alt="">
                     </div>
@@ -57,7 +57,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_5.svg" alt="">
                     </div>
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_6.svg" alt="">
                     </div>
@@ -92,7 +92,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_7.svg" alt="">
                     </div>
@@ -106,7 +106,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_8.svg" alt="">
                     </div>
@@ -133,7 +133,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_11.svg" alt="">
                     </div>
@@ -147,7 +147,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_12.svg" alt="">
                     </div>
@@ -179,7 +179,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_13.svg" alt="">
                     </div>
@@ -200,7 +200,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_14.svg" alt="">
                     </div>
@@ -214,7 +214,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_16.svg" alt="">
                     </div>
@@ -228,7 +228,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col itm">
+                <div class="col itm c-anim-up">
                     <div class="img_cont">
                         <img src="/images/top/section_4/img_17.svg" alt="">
                     </div>

@@ -1,6 +1,5 @@
 <div class="footer_inner">
-
-	<div class="logo"><a href="/"><img src="" alt="<?php echo SITE_NAME; ?>"></a></div>
+	<!-- <div class="logo"><a href="/"><img src="" alt="<?php echo SITE_NAME; ?>"></a></div>
 
 	<nav>
 		<ul>
@@ -9,10 +8,10 @@
 			<li><a href="/sitemap">サイトマップ</a></li>
 			<li><a href="/privacy">プライバシーポリシー</a></li>
 		</ul>
-	</nav>
+	</nav> -->
 
 	<div class="copy">
-		<small>&copy; ウルトラワークス　All Lights Reserved.</small>
+		<small>Copyright &copy; Rentic-chubu All Rights Reserved.</small>
 	</div>
 
 </div>
