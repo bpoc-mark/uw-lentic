@@ -2,4 +2,63 @@
   Top
 ==================================*/
 #Top main {
+
+  .sect_1{
+    margin-top: 40px;
+    .wrapper{
+      background-color: #d1e1ed;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      h3{
+        @include Noto_Sans(500);
+        font-size: 24px;
+        color: #000;
+        text-align: center;
+
+        p{
+          font-family: 'Roboto', sans-serif;
+          font-size: 12px;
+          font-weight: 500;
+          color: #0081cc;
+          margin-top: 10px;
+        }
+      }
+    }
+    .breadcrumb_cont{
+      margin-top: 10px;
+      .breadcrumb{
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        li{
+          display: flex;
+          align-items: center;
+          margin-right: 20px;
+          position: relative;
+
+          &:not(:last-child){
+            &::after{
+              content: "\003E";
+              font-size: 12px;
+              color: #4e4a46;
+              position: absolute;
+              right: -15px
+            }
+          }
+
+          a{
+            @include Noto_Sans(400);
+            font-size: 12px;
+            color: #4e4a46;
+            display: flex;
+            img{
+              width: 14px;
+              height: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+
 }

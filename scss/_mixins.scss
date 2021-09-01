@@ -12,6 +12,13 @@ $sp: 899px; // スマホ
   }
 }
 
+// @include is-max()
+@mixin is-max($is-max) {
+  @media only screen and (max-width: $is-max) {
+      @content;
+  }
+}
+
 @mixin mq($breakpoint: md, $range: max) {
   @media (#{$range}-width:#{map-get($breakpoints,$breakpoint)}) {
     @content;

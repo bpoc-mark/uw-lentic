@@ -107,6 +107,7 @@ header .header_inner .logo a img {
 ==================================*/
 footer {
   background: #000;
+  margin-top: 200px;
 }
 
 #pageTop {
@@ -516,6 +517,69 @@ img[src$=".png"], img[src$=".jpg"] {
 /*==================================
   Top
 ==================================*/
+#Top main .sect_1 {
+  margin-top: 80px;
+}
+
+#Top main .sect_1 .wrapper {
+  background-color: #d1e1ed;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+#Top main .sect_1 .wrapper h3 {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 36px;
+  color: #000;
+  text-align: center;
+}
+
+#Top main .sect_1 .wrapper h3 p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #0081cc;
+  margin-top: 15px;
+}
+
+#Top main .sect_1 .breadcrumb_cont {
+  margin-top: 10px;
+}
+
+#Top main .sect_1 .breadcrumb_cont .breadcrumb {
+  list-style: none;
+  display: flex;
+}
+
+#Top main .sect_1 .breadcrumb_cont .breadcrumb li {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  position: relative;
+}
+
+#Top main .sect_1 .breadcrumb_cont .breadcrumb li:not(:last-child)::after {
+  content: "\003E";
+  font-size: 12px;
+  color: #4e4a46;
+  position: absolute;
+  right: -15px;
+}
+
+#Top main .sect_1 .breadcrumb_cont .breadcrumb li a {
+  font-family: "Noto Sans JP";
+  font-weight: 400;
+  font-size: 12px;
+  color: #4e4a46;
+  display: flex;
+}
+
+#Top main .sect_1 .breadcrumb_cont .breadcrumb li a img {
+  width: 14px;
+  height: 14px;
+}
+
 /*==================================
   Contact_reset
 ==================================*/
