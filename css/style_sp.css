@@ -823,6 +823,202 @@ img[src$=".png"], img[src$=".jpg"] {
   padding: 60px 30px;
 }
 
+#Top main .sect_4 .wrapper {
+  padding-top: 30px;
+}
+
+#Top main .sect_4 .wrapper .container h3 {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 24px;
+  color: #0081cc;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#Top main .sect_4 .wrapper .container .row .col {
+  padding: 25px 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+#Top main .sect_4 .wrapper .container .row .col:not(:last-child) {
+  border-bottom: 1px solid #cfcfcf;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .img_cont {
+  width: 81px;
+  margin-right: 25px;
+  display: none;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont {
+  width: 100%;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont p {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 18px;
+  color: #e4011e;
+  text-align: left;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont p img {
+  width: 64px;
+  margin-right: 10px;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont .list {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont .list:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont .list span {
+  font-family: "Noto Sans JP";
+  font-weight: 400;
+  font-size: 13px;
+  color: #fff;
+  background-color: #e4011e;
+  padding: 7px 0;
+  width: 146px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont .list .list_sub {
+  width: 100%;
+}
+
+#Top main .sect_4 .wrapper .container .row .col .txt_cont .list .list_sub p {
+  font-family: "Noto Sans JP";
+  font-weight: 400;
+  font-size: 16px;
+  color: #000 !important;
+  margin-bottom: 0;
+  margin-left: 50px;
+  text-indent: -50px;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(2) .txt_cont p {
+  color: #1b973a;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(2) .txt_cont .list span {
+  background-color: #1b973a;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(3) .txt_cont p {
+  color: #c50e28;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(3) .txt_cont .list span {
+  background-color: #c50e28;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(4) .txt_cont p {
+  color: #e83418;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(4) .txt_cont .list span {
+  background-color: #e83418;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(5) .txt_cont p {
+  color: #00a6d9;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(5) .txt_cont .list span {
+  background-color: #00a6d9;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(6) .txt_cont p {
+  color: #fabd00;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(6) .txt_cont .list span {
+  background-color: #fabd00;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(1n+7) .txt_cont .list .list_sub p {
+  margin-left: 60px;
+  text-indent: -60px;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(7) .txt_cont p {
+  color: #970a31;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(7) .txt_cont .list span {
+  background-color: #970a31;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(8) .txt_cont p {
+  color: #f69100;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(8) .txt_cont .list span {
+  background-color: #f69100;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(9) .txt_cont p {
+  color: #c58700;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(9) .txt_cont .list span {
+  background-color: #c58700;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(10) .txt_cont p {
+  color: #407936;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(10) .txt_cont .list span {
+  background-color: #407936;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(11) .txt_cont p {
+  color: #0075ba;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(11) .txt_cont .list span {
+  background-color: #0075ba;
+  letter-spacing: -1px;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(12) .txt_cont p {
+  color: #004c88;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(12) .txt_cont .list span {
+  background-color: #004c88;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(13) .txt_cont p {
+  color: #023067;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(13) .txt_cont .list span {
+  background-color: #023067;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(13) .txt_cont .list .list_sub p {
+  margin-left: 35px;
+  text-indent: -35px;
+}
+
 /*==================================
   Contact_reset
 ==================================*/

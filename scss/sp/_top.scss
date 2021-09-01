@@ -342,4 +342,261 @@
     }
   }
 
+  .sect_4{
+    .wrapper{
+      padding-top: 30px;
+      .container{
+        h3{
+          @include Noto_Sans(500);
+          font-size: 24px;
+          color: #0081cc;
+          text-align: center;
+          margin-bottom: 15px;
+        }
+        .row{
+          .col{
+            padding: 25px 0;
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+
+            &:not(:last-child){
+              border-bottom: 1px solid #cfcfcf;
+            }
+
+            .img_cont{
+              width: 81px;
+              margin-right: 25px;
+              display: none
+            }
+            .txt_cont{
+              width: 100%;
+              p{
+                @include Noto_Sans(500);
+                font-size: 18px;
+                color: #e4011e; 
+                text-align: left;
+                margin-bottom: 10px;
+                display: flex;
+                align-items: center;
+               
+                img{
+                  width: 64px;
+                  margin-right: 10px;
+                }
+              }
+              .list{
+                display: flex;
+                align-items: stretch;
+                justify-content: flex-start;
+                flex-wrap: wrap;
+                &:not(:last-child){
+                  margin-bottom: 10px;
+                }
+                span{
+                  @include Noto_Sans(400);
+                  font-size: 13px;
+                  color: #fff; 
+                  background-color: #e4011e;
+                  padding: 7px 0;
+                  width: 146px;
+                  margin-bottom: 10px;
+                  border-radius: 3px;
+                  display: flex;
+                  justify-content: center;
+                }
+                .list_sub{
+                  width: 100%;
+                  p{
+                    @include Noto_Sans(400);
+                    font-size: 16px;
+                    color: #000 !important;
+                    margin-bottom: 0;
+                    margin-left: 50px;
+                    text-indent: -50px;
+                  }
+                }
+              }
+            }
+
+            &.itm{
+              &:nth-of-type(2){
+                .txt_cont{
+                  p{
+                    color: #1b973a;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #1b973a;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(3){
+                .txt_cont{
+                  p{
+                    color: #c50e28;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #c50e28;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(4){
+                .txt_cont{
+                  p{
+                    color: #e83418;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #e83418;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(5){
+                .txt_cont{
+                  p{
+                    color: #00a6d9;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #00a6d9;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(6){
+                .txt_cont{
+                  p{
+                    color: #fabd00;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #fabd00;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(1n+7){
+                .txt_cont{
+                  .list{
+                    .list_sub{
+                      p{
+                        margin-left: 60px;
+                        text-indent: -60px;
+                      }
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(7){
+                .txt_cont{
+                  p{
+                    color: #970a31;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #970a31;
+                    }
+
+                  }
+                }
+              }
+              &:nth-of-type(8){
+                .txt_cont{
+                  p{
+                    color: #f69100;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #f69100;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(9){
+                .txt_cont{
+                  p{
+                    color: #c58700;
+                  }
+
+                  .list{
+                    span{
+                      background-color: #c58700;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(10){
+                .txt_cont{
+                  p{
+                    color: #407936;
+                  }
+                  .list{
+                    span{
+                      background-color: #407936;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(11){
+                .txt_cont{
+                  p{
+                    color: #0075ba;
+                  }
+                  .list{
+                    span{
+                      background-color: #0075ba;
+                      letter-spacing: -1px;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(12){
+                .txt_cont{
+                  p{
+                    color: #004c88;
+                  }
+                  .list{
+                    span{
+                      background-color: #004c88;
+                    }
+                  }
+                }
+              }
+              &:nth-of-type(13){
+                .txt_cont{
+                  p{
+                    color: #023067;
+                  }
+                  .list{
+                    span{
+                      background-color: #023067;
+                    }
+                    .list_sub{
+                      p{
+                        margin-left: 35px;
+                        text-indent: -35px;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
 }
