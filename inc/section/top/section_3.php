@@ -141,7 +141,6 @@
                             <source srcset="/images/top/section_3/itm_7_img_1.png" media="(min-width: 900px)">
                             <img src="/images/top/sp/section_3/itm_7_img_1.png" alt="">
                         </picture>
-                        <img src="/images/top/section_3/itm_7_img_3.png" alt="" class="img_tl">
                     </div>
                     <div class="txt_cont">
                         <div>
@@ -162,7 +161,6 @@
                             <source srcset="/images/top/section_3/itm_8_img_1.png" media="(min-width: 900px)">
                             <img src="/images/top/sp/section_3/itm_8_img_1.png" alt="">
                         </picture>
-                        <img src="/images/top/section_3/itm_8_img_3.png" alt="" class="img_tl">
                     </div>
                     <div class="txt_cont">
                         <div>
@@ -183,7 +181,6 @@
                             <source srcset="/images/top/section_3/itm_9_img_1.png" media="(min-width: 900px)">
                             <img src="/images/top/sp/section_3/itm_9_img_1.png" alt="">
                         </picture>
-                        <img src="/images/top/section_3/itm_9_img_3.png" alt="" class="img_tl">
                     </div>
                     <div class="txt_cont">
                         <div>
@@ -204,7 +201,6 @@
                             <source srcset="/images/top/section_3/itm_10_img_1.png" media="(min-width: 900px)">
                             <img src="/images/top/sp/section_3/itm_10_img_1.png" alt="">
                         </picture>
-                        <img src="/images/top/section_3/itm_10_img_3.png" alt="" class="img_tl">
                     </div>
                     <div class="txt_cont">
                         <div>
@@ -225,7 +221,6 @@
                             <source srcset="/images/top/section_3/itm_11_img_1.png" media="(min-width: 900px)">
                             <img src="/images/top/sp/section_3/itm_11_img_1.png" alt="">
                         </picture>
-                        <img src="/images/top/section_3/itm_11_img_3.png" alt="" class="img_tl">
                     </div>
                     <div class="txt_cont">
                         <div>
@@ -246,7 +241,6 @@
                             <source srcset="/images/top/section_3/itm_12_img_1.png" media="(min-width: 900px)">
                             <img src="/images/top/sp/section_3/itm_12_img_1.png" alt="">
                         </picture>
-                        <img src="/images/top/section_3/itm_12_img_3.png" alt="" class="img_tl">
                     </div>
                     <div class="txt_cont">
                         <div>
