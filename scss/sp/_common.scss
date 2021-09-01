@@ -57,7 +57,7 @@ header {
   z-index: 999;
   background: #fff;
   width: 100%;
-  height: 55px;
+  height: 40px;
   .header_inner {
     display: flex;
     justify-content: space-between;
@@ -65,60 +65,61 @@ header {
   .logo {
     margin: 12px 0 0 15px;
     img {
+      width: 200px;
     }
   }
-  .menu {
-    position: relative;
-    background: #000;
-    width: 55px;
-    height: 55px;
-    span {
-      position: absolute;
-      top: 16px;
-      left: 0;
-      right: 0;
-      display: inline-block;
-      background: #fff;
-      width: 15px;
-      height: 2px;
-      margin: auto;
-      transition: 0.3s;
-      &.line-t.show {
-        top: 22px;
-        transform: rotate(-32deg);
-      }
-      &.line-m {
-        top: 22px;
-        &.show {
-          opacity: 0;
-        }
-      }
-      &.line-b {
-        top: 28px;
-        &.show {
-          top: 22px;
-          transform: rotate(32deg);
-        }
-      }
-    }
-    p {
-      color: #fff;
-      padding: 35px 0 0;
-      font-size: 10px;
-      text-align: center;
-    }
-  }
-  nav {
-    display: none;
-    position: fixed;
-    top: 55px;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: #000;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
-  }
+  // .menu {
+  //   position: relative;
+  //   background: #000;
+  //   width: 55px;
+  //   height: 55px;
+  //   span {
+  //     position: absolute;
+  //     top: 16px;
+  //     left: 0;
+  //     right: 0;
+  //     display: inline-block;
+  //     background: #fff;
+  //     width: 15px;
+  //     height: 2px;
+  //     margin: auto;
+  //     transition: 0.3s;
+  //     &.line-t.show {
+  //       top: 22px;
+  //       transform: rotate(-32deg);
+  //     }
+  //     &.line-m {
+  //       top: 22px;
+  //       &.show {
+  //         opacity: 0;
+  //       }
+  //     }
+  //     &.line-b {
+  //       top: 28px;
+  //       &.show {
+  //         top: 22px;
+  //         transform: rotate(32deg);
+  //       }
+  //     }
+  //   }
+  //   p {
+  //     color: #fff;
+  //     padding: 35px 0 0;
+  //     font-size: 10px;
+  //     text-align: center;
+  //   }
+  // }
+  // nav {
+  //   display: none;
+  //   position: fixed;
+  //   top: 55px;
+  //   left: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   background: #000;
+  //   overflow: auto;
+  //   -webkit-overflow-scrolling: touch;
+  // }
 }
 
 /* footer

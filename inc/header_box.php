@@ -5,13 +5,13 @@ $str = explode('/', $url); ?>
 
 	<?php
 	if ($str[1] == "") {
-		echo '<h1 class="logo"><a href="/"><img src="/images/common/logo.svg" alt=""></a></h1>';
+		echo '<h1 class="logo"><a href="/"><img src="/images/common/header_logo.svg" alt=""></a></h1>';
 	} else {
-		echo '<p class="logo"><a href="/"><img src="/images/common/logo.svg" alt=""></a></p>';
+		echo '<p class="logo"><a href="/"><img src="/images/common/header_logo.svg" alt=""></a></p>';
 	}
 	?>
 
-	<nav>
+	<!-- <nav>
 		<ul>
 			<li><a href="/" <?php if ($str[1] == "") {
 												echo ' class="here"';
@@ -20,6 +20,6 @@ $str = explode('/', $url); ?>
 															echo ' class="here"';
 														} ?>>about</a></li>
 		</ul>
-	</nav>
+	</nav> -->
 
 </div>
