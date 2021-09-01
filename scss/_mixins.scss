@@ -56,6 +56,12 @@ $font-color: #000;
   font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
   font-weight: bold;
 }
+
+@mixin Roboto($weight: 500) {
+  font-family: 'Roboto', sans-serif;
+  font-weight: $weight;
+}
+
 // sassで「@include arrow(#fff)」など。カラーコードは変更可能。
 @mixin arrow($color: #000) {
   border-top: 1px solid $color;

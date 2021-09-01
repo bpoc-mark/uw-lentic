@@ -16,9 +16,8 @@
         text-align: center;
 
         p{
-          font-family: 'Roboto', sans-serif;
+          @include Roboto(500);
           font-size: 16px;
-          font-weight: 500;
           color: #0081cc;
           margin-top: 15px;
         }
@@ -56,6 +55,207 @@
             }
           }
         }
+      }
+    }
+  }
+
+  .sect_2{
+    .wrapper{
+      padding-top: 80px;
+      .container{
+        max-width: 1200px !important;
+        padding-right: 60px !important;
+        padding-left: 60px !important;
+
+        .txt_cont{
+          max-width: 720px;
+          margin-left: auto;
+          margin-right: auto;
+          padding-top: 60px;
+
+          p{
+            @include Noto_Sans(400);
+            font-size: 16px;
+            color: #000;
+            line-height: 24px;
+            text-align: left;
+            text-indent: 20px;
+            
+            &:nth-of-type(1){
+              margin-bottom: 70px;
+            }
+            &:nth-of-type(2){
+              letter-spacing: -.5px;
+              margin-bottom: 65px;
+            }
+            &:nth-of-type(3){
+              text-indent: 0px;
+              text-align: center;
+              margin-bottom: 50px;
+            }
+          }
+
+          h3{
+            @include Noto_Sans(500);
+            font-size: 42px;
+            color: #000;
+            text-align: center;
+            
+            span{
+              display: block;
+              // @include Noto_Sans(500);
+              @include Roboto(500);
+              color: #0081cc;
+              font-size: 20px;
+              margin-top: 20px;
+              position: relative;
+
+              &::after{
+                content: "";
+                display: block;
+                width: 40px;
+                height: 5px;
+                background-color: #0081cc;
+                border-radius: 2.5px;
+                margin: 20px auto 40px;
+              }
+            }
+          }
+          h4{
+            @include Noto_Sans(500);
+            font-size: 32px;
+            color: #0081cc;
+            text-align: center;
+            margin-bottom: 40px;
+          }
+        }
+
+        .img_cont{
+          max-width: 500px;
+          margin-left: auto;
+          margin-right: auto;
+          position: relative;
+
+          .img_2{
+            width: 95px;
+            position: absolute;
+            bottom: 60px;
+            right: -110px;
+          }
+        }
+
+        // .img_cont{
+        //   width: 500px;
+        //   height: 500px;
+        //   margin: 0 auto;
+        //   border: 1px solid;
+        //   display: flex;
+        //   align-items: center;
+        //   justify-content: center;
+        //   position: relative;
+        //   .img_center{
+        //     width: 130px;
+        //   }
+        //   .bg_img{
+        //     width: 156px;
+        //     .txt{
+        //       width: 100%;
+        //       position: absolute;
+        //       top: 50%;
+        //       left: 50%;
+        //       transform: translate(-50%, -50%);
+        //       p{
+        //         text-align: center;
+        //         @include Roboto(500);
+        //         font-size: 60px;
+        //         color: #46b035;
+        //         line-height: 35px;
+        //         span{
+        //           @include Roboto(500);
+        //           font-size: 16px;
+        //           color: #46b035;
+        //         }
+        //       }
+        //       span{
+        //         display: block;
+        //         text-align: center;
+        //         @include Noto_Sans(400);
+        //         font-size: 14px;
+        //         color: #000;
+        //       }
+        //     }
+        //     &.bg_t{
+        //       position: absolute;
+        //       top: 0;
+        //       right: 0;
+        //       left: 0;
+        //       margin: 0 auto;
+        //     }
+        //     &.bg_b{
+        //       position: absolute;
+        //       bottom: 0;
+        //       right: 0;
+        //       left: 0;
+        //       margin: 0 auto;
+
+        //       .txt{
+        //         top: 55%;
+        //         p{
+        //           color: #d0121b;
+        //           span{
+        //             color: #d0121b;
+        //           }
+        //         }
+        //         span{
+        //           color: #000;
+        //         }
+        //       }
+        //     }
+        //     &.bg_bl{
+        //       position: absolute;
+        //       bottom: 80px;
+        //       right: 0;
+        //       left: 0;
+        //       img{
+        //         transform: rotate(65deg);
+        //       }
+        //       .txt{
+        //         top: 53%;
+        //         left: 46%;
+        //         p{
+        //           color: #d0121b;
+        //           span{
+        //             color: #d0121b;
+        //           }
+        //         }
+        //         span{
+        //           color: #000;
+        //         }
+        //       }
+        //     }
+        //     &.bg_br{
+        //       position: absolute;
+        //       bottom: 80px;
+        //       right: 0;
+        //       img{
+        //         transform: rotate(112deg);
+        //       }
+        //       .txt{
+        //         top: 55%;
+        //         left: 54%;
+        //         p{
+        //           color: #f39700;
+        //           span{
+        //             color: #f39700;
+        //           }
+        //         }
+        //         span{
+        //           color: #000;
+        //         }
+        //       }
+        //     }
+        //   }
+        // }
       }
     }
   }

@@ -537,8 +537,8 @@ img[src$=".png"], img[src$=".jpg"] {
 
 #Top main .sect_1 .wrapper h3 p {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
   font-weight: 500;
+  font-size: 16px;
   color: #0081cc;
   margin-top: 15px;
 }
@@ -578,6 +578,99 @@ img[src$=".png"], img[src$=".jpg"] {
 #Top main .sect_1 .breadcrumb_cont .breadcrumb li a img {
   width: 14px;
   height: 14px;
+}
+
+#Top main .sect_2 .wrapper {
+  padding-top: 80px;
+}
+
+#Top main .sect_2 .wrapper .container {
+  max-width: 1200px !important;
+  padding-right: 60px !important;
+  padding-left: 60px !important;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont p {
+  font-family: "Noto Sans JP";
+  font-weight: 400;
+  font-size: 16px;
+  color: #000;
+  line-height: 24px;
+  text-align: left;
+  text-indent: 20px;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont p:nth-of-type(1) {
+  margin-bottom: 70px;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont p:nth-of-type(2) {
+  letter-spacing: -.5px;
+  margin-bottom: 65px;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont p:nth-of-type(3) {
+  text-indent: 0px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont h3 {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 42px;
+  color: #000;
+  text-align: center;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont h3 span {
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #0081cc;
+  font-size: 20px;
+  margin-top: 20px;
+  position: relative;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont h3 span::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 5px;
+  background-color: #0081cc;
+  border-radius: 2.5px;
+  margin: 20px auto 40px;
+}
+
+#Top main .sect_2 .wrapper .container .txt_cont h4 {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 32px;
+  color: #0081cc;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#Top main .sect_2 .wrapper .container .img_cont {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+#Top main .sect_2 .wrapper .container .img_cont .img_2 {
+  width: 95px;
+  position: absolute;
+  bottom: 60px;
+  right: -110px;
 }
 
 /*==================================

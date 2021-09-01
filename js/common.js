@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // Webfont読込
 window.WebFontConfig = {
   google: {
-    families: ['Barlow+Condensed:500','Oswald:400,600', 'Noto+Sans+JP:300,400,500&subset=japanese']
+    families: ['Barlow+Condensed:500','Oswald:400,600', 'Roboto:300,400,500', 'Noto+Sans+JP:300,400,500&subset=japanese']
   },
   active: function () {
     sessionStorage.fonts = true;

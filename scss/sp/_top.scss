@@ -16,9 +16,8 @@
         text-align: center;
 
         p{
-          font-family: 'Roboto', sans-serif;
+          @include Roboto(500);
           font-size: 12px;
-          font-weight: 500;
           color: #0081cc;
           margin-top: 10px;
         }
@@ -54,6 +53,89 @@
             img{
               width: 14px;
               height: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .sect_2{
+    .wrapper{
+      padding-top: 40px;
+      .container{
+        .txt_cont{
+          padding-top: 20px;
+
+          p{
+            @include Noto_Sans(400);
+            font-size: 16px;
+            color: #000;
+            line-height: 24px;
+            text-align: left;
+            text-indent: 20px;
+            
+            &:nth-of-type(1){
+              margin-bottom: 70px;
+            }
+            &:nth-of-type(2){
+              margin-bottom: 50px;
+            }
+            &:nth-of-type(3){
+              text-indent: 0;
+              text-align: left;
+              margin-bottom: 20px;
+            }
+          }
+
+          h3{
+            @include Noto_Sans(500);
+            font-size: 24px;
+            color: #000;
+            text-align: center;
+            
+            span{
+              display: block;
+              @include Roboto(500);
+              color: #0081cc;
+              font-size: 12px;
+              margin-top: 15px;
+              position: relative;
+
+              &::after{
+                content: "";
+                display: block;
+                width: 40px;
+                height: 5px;
+                background-color: #0081cc;
+                border-radius: 2.5px;
+                margin: 20px auto 30px;
+              }
+            }
+          }
+          h4{
+            @include Noto_Sans(500);
+            font-size: 21px;
+            color: #0081cc;
+            text-align: center;
+            margin-bottom: 17px;
+          }
+        }
+        .img_cont{
+          max-width: 500px;
+          margin-left: auto;
+          margin-right: auto;
+          position: relative;
+          text-align: center;
+          .img_2{
+            width: 70px;
+            position: absolute;
+            bottom: -30px;
+            right: 70px;
+
+            @include is-max(425px){
+              width: 16.47%;
+              right: 10%;
             }
           }
         }
