@@ -880,6 +880,12 @@ img[src$=".png"], img[src$=".jpg"] {
   margin-bottom: 20px;
 }
 
+#Top main .sect_4 .wrapper .container .row .col .txt_cont p span {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 24px;
+}
+
 #Top main .sect_4 .wrapper .container .row .col .txt_cont p img {
   display: none;
 }

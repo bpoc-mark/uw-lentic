@@ -464,6 +464,11 @@
                 text-align: left;
                 margin-bottom: 20px;
 
+                span{
+                  @include Noto_Sans(500);
+                  font-size: 24px;
+                }
+
                 img{
                   display: none;
                 }

@@ -879,6 +879,14 @@ img[src$=".png"], img[src$=".jpg"] {
   align-items: center;
 }
 
+#Top main .sect_4 .wrapper .container .row .col .txt_cont p span {
+  font-family: "Noto Sans JP";
+  font-weight: 500;
+  font-size: 18px;
+  text-indent: -23px;
+  margin-left: 23px;
+}
+
 #Top main .sect_4 .wrapper .container .row .col .txt_cont p img {
   width: 64px;
   margin-right: 10px;
@@ -974,6 +982,11 @@ img[src$=".png"], img[src$=".jpg"] {
 
 #Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(7) .txt_cont .list span {
   background-color: #970a31;
+}
+
+#Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(1n+8) .txt_cont p span {
+  text-indent: -30px;
+  margin-left: 30px;
 }
 
 #Top main .sect_4 .wrapper .container .row .col.itm:nth-of-type(8) .txt_cont p {

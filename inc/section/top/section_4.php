@@ -8,7 +8,7 @@
                         <img src="/images/top/section_4/img_1.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_1.svg" alt="">1. 貧困をなくそう</p>
+                        <p><img src="/images/top/section_4/img_1.svg" alt=""><span>1. 貧困をなくそう</span></p>
                         <div class="list">
                             <span>レンタル事業部</span>
                             <div class="list_sub">
@@ -22,7 +22,7 @@
                         <img src="/images/top/section_4/img_3.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_3.svg" alt="">3. すべての人に健康と福祉を</p>
+                        <p><img src="/images/top/section_4/img_3.svg" alt=""><span>3. すべての人に健康と福祉を</span></p>
                         <div class="list">
                             <span>医療福祉事業部</span>
                             <div class="list_sub">
@@ -36,7 +36,7 @@
                         <img src="/images/top/section_4/img_4.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_4.svg" alt="">4. 質の高い教育をみんなに</p>
+                        <p><img src="/images/top/section_4/img_4.svg" alt=""><span>4. 質の高い教育をみんなに</span></p>
                         <div class="list">
                             <span>医療福祉事業部</span>
                             <div class="list_sub">
@@ -62,7 +62,7 @@
                         <img src="/images/top/section_4/img_5.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_5.svg" alt="">5. ジェンダーの平等を実現しよう</p>
+                        <p><img src="/images/top/section_4/img_5.svg" alt=""><span>5. ジェンダーの平等を実現しよう</span></p>
                         <div class="list">
                             <span>総務部</span>
                             <div class="list_sub">
@@ -83,7 +83,7 @@
                         <img src="/images/top/section_4/img_6.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_6.svg" alt="">6. 安全な水とトイレを世界中に</p>
+                        <p><img src="/images/top/section_4/img_6.svg" alt=""><span>6. 安全な水とトイレを世界中に</span></p>
                         <div class="list">
                             <span>生産管理部</span>
                             <div class="list_sub">
@@ -97,7 +97,7 @@
                         <img src="/images/top/section_4/img_7.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_7.svg" alt="">7. エネルギーをみんなにそしてクリーンに</p>
+                        <p><img src="/images/top/section_4/img_7.svg" alt=""><span>7. エネルギーをみんなにそしてクリーンに</span></p>
                         <div class="list">
                             <span>生産管理部</span>
                             <div class="list_sub">
@@ -111,7 +111,7 @@
                         <img src="/images/top/section_4/img_8.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_8.svg" alt="">8. 働きがいも経済成長も</p>
+                        <p><img src="/images/top/section_4/img_8.svg" alt=""><span>8. 働きがいも経済成長も</span></p>
                         <div class="list">
                             <span>総務部</span>
                             <div class="list_sub">
@@ -138,7 +138,7 @@
                         <img src="/images/top/section_4/img_11.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_11.svg" alt="">11. 住み続けられるまちづくりを</p>
+                        <p><img src="/images/top/section_4/img_11.svg" alt=""><span>11. 住み続けられるまちづくりを</span></p>
                         <div class="list">
                             <span>総務部</span>
                             <div class="list_sub">
@@ -152,7 +152,7 @@
                         <img src="/images/top/section_4/img_12.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_12.svg" alt="">12. つくる責任つかう責任</p>
+                        <p><img src="/images/top/section_4/img_12.svg" alt=""><span>12. つくる責任つかう責任</span></p>
                         <div class="list">
                             <span>レンタル事業部</span>
                             <div class="list_sub">
@@ -184,7 +184,7 @@
                         <img src="/images/top/section_4/img_13.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_13.svg" alt="">13. 気候変動に具体的な対策を</p>
+                        <p><img src="/images/top/section_4/img_13.svg" alt=""><span>13. 気候変動に具体的な対策を</span></p>
                         <div class="list">
                             <span>リースキン事業部</span>
                             <div class="list_sub">
@@ -205,7 +205,7 @@
                         <img src="/images/top/section_4/img_14.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_14.svg" alt="">14. 海の豊かさを守ろう</p>
+                        <p><img src="/images/top/section_4/img_14.svg" alt=""><span>14. 海の豊かさを守ろう</span></p>
                         <div class="list">
                             <span>トータルクリーン事業部</span>
                             <div class="list_sub">
@@ -219,7 +219,7 @@
                         <img src="/images/top/section_4/img_16.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_16.svg" alt="">16. 平和と公正をすべての人に</p>
+                        <p><img src="/images/top/section_4/img_16.svg" alt=""><span>16. 平和と公正をすべての人に</span></p>
                         <div class="list">
                             <span>総務部</span>
                             <div class="list_sub">
@@ -233,7 +233,7 @@
                         <img src="/images/top/section_4/img_17.svg" alt="">
                     </div>
                     <div class="txt_cont">
-                        <p><img src="/images/top/section_4/img_17.svg" alt="">17. パートナーシップで目標を達成しよう</p>
+                        <p><img src="/images/top/section_4/img_17.svg" alt=""><span>17. パートナーシップで目標を達成しよう</span></p>
                         <div class="list">
                             <span>総務部</span>
                             <div class="list_sub">
